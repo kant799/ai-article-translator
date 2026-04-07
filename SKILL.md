@@ -1,5 +1,5 @@
 ---
-## name: ai-article-translator
+name: ai-article-translator
 description: >
   AI驱动的六步翻译技能，通过两轮"翻译→核查→修正"循环确保译文准确性和语言自然度。
   第一轮侧重内容完整性和翻译准确性，第二轮侧重语言润色后的语义保真度。
@@ -7,6 +7,7 @@ description: >
   或提到"翻译文章"、"translate article"、"翻译成XX语"、"翻译这篇文章"时使用此技能。
   也适用于用户提到"去AI翻译痕迹"、"自然译文"、"人工翻译质量"等翻译质量优化场景。
 ---
+
 # AI Article Translator
 将文章从一种语言高质量地翻译为另一种语言，采用六步循环流程，确保译文既准确又自然。
 ## 工作流程
